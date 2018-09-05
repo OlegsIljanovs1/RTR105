@@ -1,0 +1,50 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  u
+    4  i
+    5  u
+    6  uname
+    7  man uname
+    8  uname -a
+    9  echo $0
+   10  firefox &
+   11  echo $
+   12  echo $0
+   13  sh
+   14  man
+   15  man man
+   16  u
+   17  c
+   18  calendar
+   19  whoami
+   20  who
+   21  where
+   22  who
+   23  adress
+   24  who
+   25  ad
+   26  who
+   27  adres
+   28  who
+   29  ip
+   30  -c
+   31  -colot
+   32  -color
+   33  who
+   34  file
+   35  -apple
+   36  who
+   37  pwd
+   38  man pwd
+   39  ls
+   40  ls -ls
+   41  ls a
+   42  ls -a
+   43  man ls
+   44  history
+   45  ls -a
+   46  ls -al
+   47  ls -la
+   48  ls -lat
+   49  history
+   50  history > history_20180905.txt
