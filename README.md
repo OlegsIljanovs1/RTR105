@@ -18,3 +18,4 @@ cd ~ - " /home/user"
 cd~/ +2tab - var apskatīt visas mapes kur var aiziet
 mkdir - mapes izveidošāna
 cd .. - var iziet no mapes
+rmdir - dzēst mapes
