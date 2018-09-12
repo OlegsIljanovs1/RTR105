@@ -1,0 +1,95 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  ls -l
+    4  cd Music/
+    5  pwd
+    6  cd /home/user
+    7  pwd
+    8  cd Music/
+    9  ls -a
+   10  ls -la
+   11  cd .
+   12  pwd
+   13  cd ..
+   14  pwd
+   15  ls -la
+   16  cd /home/user/
+   17  pwd
+   18  cd /
+   19  pwd
+   20  cd ~
+   21  pwd
+   22  cd /home/user/
+   23  cd ~/cd
+   24  cd
+   25  pwd
+   26  ls -l
+   27  mkdir ManaMape
+   28  ls -l
+   29  cd ManaMape/
+   30  pwd
+   31  ls -la
+   32  cd ..
+   33  pwd
+   34  ls
+   35  rmdir ManaMape/
+   36  ls
+   37  mkdir ManaMape
+   38  cd Manamape
+   39  cd ManaMape/
+   40  mkdir ManaApakshMape
+   41  ls -l
+   42  cd..
+   43  cd ..
+   44  rmdir ManaMape/
+   45  man rmdir
+   46  rm ManaMape/
+   47  man rm
+   48  rm -r ManaMape/
+   49  ls
+   50  echo "Teksts"
+   51  echp "Cits teksts"
+   52  echo "Cits teksts"
+   53  echo -e "Teksts/nCits teksts"
+   54  echo -e "Teksts\nCits teksts"
+   55  echo "teksts" >failsl.txt
+   56  ls
+   57  cat failsl.txt 
+   58  echo "Cits teksts"> failsl.txt
+   59  cat failsl.txt
+   60  echo "teksts" >failsl.txt
+   61  cat failsl.txt
+   62  echo "teksts" >>failsl.txt
+   63  cat failsl.txt
+   64  ls- l
+   65  ls -l
+   66  chmod 400 failsl.txt
+   67  ls -l
+   68  ls -l failsl.txt
+   69  echo "vel viens teksts" >>failsl.txt
+   70  chmod 700 failsl.txt
+   71  ls -l failsl.tx
+   72  ls -l failsl.txt
+   73  echo "Teksts" > ../failsl.txt
+   74  ls
+   75  nano failsl.txt
+   76  cp failsl.txt fails3.txt
+   77  ls -l
+   78  mv *.txt Music/
+   79  ls -l
+   80  cd Music/
+   81  ls -l
+   82  mv *.txt ../
+   83  ls
+   84  cd ..
+   85  ls
+   86  mv failsl.txt fails31.txt
+   87  -l
+   88  ls -l
+   89  rm - *3*.txt
+   90  rm *3*.txt
+   91  rm *31*.txt
+   92  rm *fails31*.txt
+   93  rm 3.txt
+   94  history > history_2018
+   95  history > history_20180912
