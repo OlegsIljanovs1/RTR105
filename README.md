@@ -5,8 +5,6 @@ ctrl + l - ekrāna attīrišanā
 uname - ar ši komandu varu apskatīt OS
 uname -a - var apskatīt informācīju par OS
 man uname -
-echo $0 - shell valoda
-sh- shell
 man - manual page
 whoami - var apskatīt kas tu esī "user"
 pwd - var apskatīt kur es esmu " home/user"
