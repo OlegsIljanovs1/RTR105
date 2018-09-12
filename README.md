@@ -12,3 +12,4 @@ whoami - var apskatīt kas tu esī "user"
 pwd - var apskatīt kur es esmu " home/user"
 ls - var apskatīt mapes "Downloads" , "Music" utt.
 ls -ls - informācija par mapes
+ctrl + alt + t = vel viens taps
