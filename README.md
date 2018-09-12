@@ -16,3 +16,4 @@ cd - var atvērt mapes " cd Music/
 cd ~ - " /home/user"
 /h + tab = /home
 cd~/ +2tab - var apskatīt visas mapes kur var aiziet
+mkdir - mapes izveidošāna
