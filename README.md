@@ -19,3 +19,4 @@ mkdir - mapes izveidošāna
 cd .. - var iziet no mapes
 rmdir - dzēst mapes
 cat - var apskatīt faila saturu
+cp - copy file
