@@ -11,5 +11,6 @@ pwd - var apskatīt kur es esmu " home/user"
 ls - var apskatīt mapes "Downloads" , "Music" utt.
 ls -ls - informācija par mapes
 ctrl+shift+t = vel viens taps
+cd - change directory
 cd - var atvērt mapes " cd Music/
 cd ~ - " /home/user"
