@@ -15,3 +15,4 @@ cd - change directory
 cd - var atvērt mapes " cd Music/
 cd ~ - " /home/user"
 /h + tab = /home
+cd~/ +2tab - var apskatit visas mapes kur var aiziet
