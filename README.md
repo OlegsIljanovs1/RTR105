@@ -4,8 +4,7 @@ ctrl + alt + t - ļauj atvērt terminal
 ctrl + l - ekrāna attīrišanā
 uname - ar ši komandu varu apskatīt OS
 uname -a - var apskatīt informācīju par OS
-man uname -
-man - manual page
+man - var apkrastīt komandās aprākstu
 whoami - var apskatīt kas tu esī "user"
 pwd - var apskatīt kur es esmu " home/user"
 ls - var apskatīt mapes "Downloads" , "Music" utt.
