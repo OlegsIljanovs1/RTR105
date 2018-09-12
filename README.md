@@ -14,3 +14,4 @@ ctrl+shift+t = vel viens taps
 cd - change directory
 cd - var atvērt mapes " cd Music/
 cd ~ - " /home/user"
+/h + tab = /home
