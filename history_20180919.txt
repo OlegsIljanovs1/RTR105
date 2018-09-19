@@ -1,0 +1,33 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  /RTR105$ pwd
+    4  PATh https://github.com/OlegsIljanovs1/RTR105
+    5  RTR105$ pwd
+    6  ls -l
+    7  mkdir " mans_skripts.sh"
+    8  pwd
+    9  ls -l
+   10  nano mans_skripts.sh
+   11  ls -l
+   12  $PATH https://github.com/OlegsIljanovs1/RTR105
+   13  man pwd
+   14  git clone https://github.com/OlegsIljanovs1/RTR105
+   15  ls -l
+   16  cd RTR105/
+   17  pwd
+   18  wd
+   19  pwd
+   20  ls -l
+   21  nano README.md
+   22  nano git_upload
+   23  nano git-upload
+   24  cat git-upload
+   25  ls -l
+   26  ckmod 764
+   27  ckmod 764 git-upload
+   28  cmod 764 "git-upload"
+   29  ckmod 764
+   30  chmod 764
+   31  chmod 764 git-upload
+   32  ls -l
+   33  history > history_20180919.txt

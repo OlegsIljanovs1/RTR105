@@ -65,3 +65,12 @@ cp - copy file
 
 
 mv - pārcelt failus
+
+
+nano - var atvert skriptu
+
+
+git clone https://github.com/OlegsIljanovs1/RTR105
+
+
+
