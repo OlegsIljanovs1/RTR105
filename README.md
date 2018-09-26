@@ -76,4 +76,4 @@ python - atver python valodu
 vars () - objektu saraksts
 exit() - iziet āra
 
-
+input "var ievadit tekstu" 
