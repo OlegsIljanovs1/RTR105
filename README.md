@@ -79,10 +79,17 @@ exit() - iziet āra
 input "var ievadit tekstu" 
 
 s = 'Monty Python'
+
 >>> print(s[:2])
+
 Mo
-   print s([8:])
+  
+  print s([8:])
+
 >>> print (s[:8])
+
 Monty Py
+
 >>> print (s[:])
+
 Monty Python
