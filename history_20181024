@@ -3,3 +3,5 @@
     3  python
     4  cd RTR105
     5  history > history_20181024
+    6  ./git-upload 20181024_8_50
+    7  history > history_20181024
