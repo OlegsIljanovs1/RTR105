@@ -1,0 +1,5 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  python
+    4  cd RTR105
+    5  history > history_20181024
