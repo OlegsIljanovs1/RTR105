@@ -1,5 +1,5 @@
 #-*- coding: utf-8 -*-
-from match import sin
+from math import sin
 
 # (1.) * (2) = (2.) - float * int = float
 # (1.) * (2.)= (2.) - float * float = float
