@@ -25,3 +25,12 @@ plt.plot(x, y_first_derivative, color = "#00F00")
 
 plt.legend(['$sin(x)$','$sin\'(x)$'])
 plt.show ()
+N = len(x)
+
+y_first_derivative_build_from_array =[]
+for i in range(5):
+    temp = ( y[i+1] - y[i]) / (delta_x)
+    #temp = ( y[i+1] - y[i] ) / ( x[i+1] - x[i] )
+    y_first_derivate_build_from_array.appent(temp)
+    print(i,x[i],x[i+1],y[i],y[i+1],temp,y_first_derivate_build_from_array)
+    
