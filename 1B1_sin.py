@@ -61,9 +61,9 @@ SyntaxError: invalid character in identifier
 >>> x = linspace ( 0, 4 , 11)
 >>> y = sin(x)
 >>> y1 = x
->>> 3y2 = x - x*x*x/(1*2*3)
+>>> y2 = x - x*x*x/(1*2*3)
   File "<stdin>", line 1
-    3y2 = x - x*x*x/(1*2*3)
+    y2 = x - x*x*x/(1*2*3)
       ^
 SyntaxError: invalid syntax
 >>> #y2 = x - x*x*x/(1*2*3)
