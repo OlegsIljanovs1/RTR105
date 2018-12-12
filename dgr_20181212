@@ -1,0 +1,85 @@
+user@epk428-11:~$ python
+Python 3.6.4 |Anaconda, Inc.| (default, Jan 16 2018, 18:10:19) 
+[GCC 7.2.0] on linux
+Type "help", "copyright", "credits" or "license" for more information.
+>>> 380 > 255 => A = 380 - 255 = 12(dec)
+  File "<stdin>", line 1
+    380 > 255 => A = 380 - 255 = 12(dec)
+               ^
+SyntaxError: invalid syntax
+>>> original [0]
+Traceback (most recent call last):
+  File "<stdin>", line 1, in <module>
+NameError: name 'original' is not defined
+>>> original = "I like cookies"
+>>> original [0]
+'I'
+>>> original [1]
+' '
+>>> original [2]
+'l'
+>>> oriinal [3]
+Traceback (most recent call last):
+  File "<stdin>", line 1, in <module>
+NameError: name 'oriinal' is not defined
+>>> original [3]
+'i'
+>>> ord(orginl [0])
+Traceback (most recent call last):
+  File "<stdin>", line 1, in <module>
+NameError: name 'orginl' is not defined
+>>> ord(original [0])
+73
+>>> bin(ord(original [0]))
+'0b1001001'
+>>> bin(ord original [0])) ^ key
+  File "<stdin>", line 1
+    bin(ord original [0])) ^ key
+                   ^
+SyntaxError: invalid syntax
+>>> bin(ord(original [0])) ^ key
+Traceback (most recent call last):
+  File "<stdin>", line 1, in <module>
+NameError: name 'key' is not defined
+>>> bin(ord(original [0])) ^key
+Traceback (most recent call last):
+  File "<stdin>", line 1, in <module>
+NameError: name 'key' is not defined
+>>> bin(ord(original [0])) ^ key
+Traceback (most recent call last):
+  File "<stdin>", line 1, in <module>
+NameError: name 'key' is not defined
+>>> bin(ord(original [0])) ^ key
+Traceback (most recent call last):
+  File "<stdin>", line 1, in <module>
+NameError: name 'key' is not defined
+>>> bin(ord(original [0])) ^ key
+Traceback (most recent call last):
+  File "<stdin>", line 1, in <module>
+NameError: name 'key' is not defined
+>>> key = 5
+>>> bin(ord(original [0])) ^ key
+Traceback (most recent call last):
+  File "<stdin>", line 1, in <module>
+TypeError: unsupported operand type(s) for ^: 'str' and 'int'
+>>> bin(ord(original [0])) ^ key
+Traceback (most recent call last):
+  File "<stdin>", line 1, in <module>
+TypeError: unsupported operand type(s) for ^: 'str' and 'int'
+>>> bin(ord(original [0])) ^ key
+Traceback (most recent call last):
+  File "<stdin>", line 1, in <module>
+TypeError: unsupported operand type(s) for ^: 'str' and 'int'
+>>> key = 5
+>>> bin(ord(original [0])) ^ key
+Traceback (most recent call last):
+  File "<stdin>", line 1, in <module>
+TypeError: unsupported operand type(s) for ^: 'str' and 'int'
+>>> chr(ord(original [0])) ^ key
+Traceback (most recent call last):
+  File "<stdin>", line 1, in <module>
+TypeError: unsupported operand type(s) for ^: 'str' and 'int'
+>>> original
+'I like cookies'
+>>> key
+5
