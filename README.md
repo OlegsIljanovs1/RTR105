@@ -94,4 +94,27 @@ Monty Py
 
 Monty Python
 
+(20181128) 20181128_10_37 MonteCarlo metode (Laukuma aprēķins integrēšana) Izvēlas mērogu(a, b, c) *numpy.random.uniform(a, b, N) a = x0 b = x1 N = skaitļu daudzums y = (f(x)) x = (x0 -> x1)
+
+*a = 0 *b = 5 *N = 10000
+
+*""for"" (ciklu operators) strādā ar sarakstu for i range in["a", "b", "c"]: print(i) print(i+i)
+
+a aa b bb c cc
+
+*for i range in ['a', 'b', 'c']: print(i) print(i+i) print('a')
+
+a aa
+
+*for i in range (5)
+
+[0,1,2,3,4]
+
+for i in range (5,10)
+
+[5,6,7,8,9]
+
+for i in range (5,10,2)
+
+[5,7,9] [skaits, numurs, solis]
 
